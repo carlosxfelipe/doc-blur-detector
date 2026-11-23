@@ -1,6 +1,8 @@
-# POC — Detector de Documentos Borrados (Preact CDN)
+# Detector de Documentos Borrados
 
 Prova de conceito 100% client-side usando **Preact + HTM via CDN** (ES Modules nativos, sem bundler/build) e **PDF.js via CDN** para detectar se imagens e páginas de PDF estão borradas antes de um envio.
+
+Site: https://doc-blur-detector.netlify.app/
 
 ## Estrutura
 
